@@ -41,11 +41,11 @@ This project is a **Power BI dashboard for ATM transaction analysis**. It provid
 ## 📸 Screenshots
 <table> 
 <tr>
-<td><img src="screenshots/Home.png" width=480 alt="ATM Dashboard "></td>
-<td><img src="screenshots/Overview.png" width=480 alt="ATM Dashboard Overview"></td>
+<td><img src="ScreenShots/Home.png" width=480 alt="ATM Dashboard "></td>
+<td><img src="ScreenShots/Overview.png" width=480 alt="ATM Dashboard Overview"></td>
 </tr>
 <tr>
-<td><img src="screenshots/Detail.png" width=480 alt="ATM Dashboard Detail"></td>
+<td><img src="ScreenShots/Detail.png" width=480 alt="ATM Dashboard Detail"></td>
 </tr>
 </table>
 
